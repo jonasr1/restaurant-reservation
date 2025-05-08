@@ -12,6 +12,8 @@ djangorestframework = "^3.16.0"
 python-decouple = "^3.8"
 
 
+[tool.poetry.group.dev.dependencies]
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"

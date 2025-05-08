@@ -1,2 +1,6 @@
 __pycache__/
 .env
+.vscode/*
+!.vscode/launch.json
+mypy.ini
+db.sqlite3
